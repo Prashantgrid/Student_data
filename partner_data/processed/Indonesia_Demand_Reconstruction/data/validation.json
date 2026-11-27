@@ -1,0 +1,10 @@
+{
+  "input_rows": 67060,
+  "duplicate_household_timestamps": 0,
+  "observed_candidate_rows": 19767,
+  "complete_observed_household_days": 92,
+  "primary_complete_observed_household_days": 21,
+  "optional_complete_household_days": 97,
+  "checks": "passed: source copy, grid+PV identity, no double PV addition, 96-bin complete days, no fabricated battery channels",
+  "caution": "Algebra checks are not independent physical validation of upstream calculated load or PV channels."
+}

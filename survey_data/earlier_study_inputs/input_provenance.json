@@ -1,0 +1,20 @@
+{
+  "timing_report_url": "https://www.clasp.ngo/wp-content/uploads/2021/01/Indonesia-Residential-End-Use-Survey.pdf",
+  "timing_report_sha256": "6cb055ac1bdd808d0d64a7ac8cf0ac23c0cc5ac6f9079e1a24d904418466350d",
+  "timing_pages_printed": [
+    181,
+    182,
+    183,
+    184,
+    185
+  ],
+  "monthly_energy_anchors_kwh": {
+    "900": 104,
+    "1300": 143,
+    "2200": 268,
+    "R2_pooled": 493,
+    "R3_pooled": 1404
+  },
+  "anchor_source": "CLASP Figures 62 and 68, PLN 2019 billed-class means; not pure-residential individual-rating microdata",
+  "upper_group_limitation": "R2/R3 ownership pooled; R2 energy pooled over 3500-5500 and R3 over >=6600. No monotonic appliance or energy trend within those bands is invented."
+}

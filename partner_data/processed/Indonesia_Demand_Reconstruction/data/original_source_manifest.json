@@ -1,0 +1,30 @@
+[
+  {
+    "filename": "research_15min_2026-01-01_2026-03-31.xlsx",
+    "sheet": "Data",
+    "rows": 5708,
+    "size_bytes": 321085,
+    "sha256": "a2b94281ccca3e46878cffbbcf10e3150f333ec96320f82101b3fee07e173f93"
+  },
+  {
+    "filename": "research_15min_2026-04-01_2026-06-30.xlsx",
+    "sheet": "Data",
+    "rows": 4911,
+    "size_bytes": 279995,
+    "sha256": "64a4587990d3420d2d3411a14038b4fdc14e4706f315792261c9e930056f5cb5"
+  },
+  {
+    "filename": "research_15min_2026-07-01_2026-09-01.xlsx",
+    "sheet": "Data",
+    "rows": 26831,
+    "size_bytes": 1453001,
+    "sha256": "3ef1c74caa86c13dd3ae450156238d19eb5bed23248fd35588d890da8999b5fd"
+  },
+  {
+    "filename": "research_15min_2026-09-02_2026-11-21.xlsx",
+    "sheet": "Data",
+    "rows": 29610,
+    "size_bytes": 1653945,
+    "sha256": "638900d24e171df1b8a47ca42d1fe80bfc0d1fe4fbd91a370b4d38544391eda5"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "profile_id": "R3_33000_P01",
+    "household": "R3_33000_P01",
+    "rating_va": 33000,
+    "complete_days": 21,
+    "status": "export_identifies_household_total",
+    "short_gap_scenario": false,
+    "weekend_observed": true,
+    "approx_daily_kwh": 123.54870476190474,
+    "hems_inventory_complete": false
+  },
+  {
+    "profile_id": "R3_7700_P01",
+    "household": "R3_7700_P01",
+    "rating_va": 7700,
+    "complete_days": 32,
+    "status": "whole_house_boundary_unconfirmed",
+    "short_gap_scenario": false,
+    "weekend_observed": true,
+    "approx_daily_kwh": 82.6150375,
+    "hems_inventory_complete": false
+  },
+  {
+    "profile_id": "R3_16500_P01",
+    "household": "R3_16500_P01",
+    "rating_va": 16500,
+    "complete_days": 13,
+    "status": "whole_house_boundary_unconfirmed",
+    "short_gap_scenario": false,
+    "weekend_observed": true,
+    "approx_daily_kwh": 77.37105384615384,
+    "hems_inventory_complete": false
+  },
+  {
+    "profile_id": "R3_16500_P02",
+    "household": "R3_16500_P02",
+    "rating_va": 16500,
+    "complete_days": 26,
+    "status": "pv_channel_metadata_inconsistent",
+    "short_gap_scenario": false,
+    "weekend_observed": true,
+    "approx_daily_kwh": 122.18543269230769,
+    "hems_inventory_complete": false
+  },
+  {
+    "profile_id": "R3_7700_P02",
+    "household": "R3_7700_P02",
+    "rating_va": 7700,
+    "complete_days": 2,
+    "status": "export_identifies_household_total",
+    "short_gap_scenario": true,
+    "weekend_observed": true,
+    "approx_daily_kwh": 81.73825624999999,
+    "hems_inventory_complete": false
+  },
+  {
+    "profile_id": "R2_4400_E01",
+    "household": "R2_4400_E01",
+    "rating_va": 4400,
+    "complete_days": 13,
+    "status": "public_whole_home_measurement_P_Q_PF",
+    "short_gap_scenario": false,
+    "weekend_observed": true,
+    "approx_daily_kwh": 16.907730769230767,
+    "hems_inventory_complete": false,
+    "pv_presence_documentation": "Not stated; nonnegative P is consistent with an import/load record but is not proof that no PV existed"
+  }
+]

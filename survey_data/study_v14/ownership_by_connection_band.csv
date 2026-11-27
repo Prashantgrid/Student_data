@@ -1,0 +1,10 @@
+appliance,900_VA_RTM,1300_VA,2200_VA,R2_R3_pooled,evidence
+ac,0.05,0.18,0.44,0.82,"CLASP Table 21, as parameterized in study v14"
+washer,0.38,0.46,0.6,0.87,"CLASP Table 21, as parameterized in study v14"
+dispenser,0.24,0.35,0.47,0.77,"CLASP Table 21, as parameterized in study v14"
+pump,0.39,0.37,0.29,0.69,"CLASP Table 21, as parameterized in study v14"
+iron,0.8,0.8,0.84,0.92,"CLASP Table 21, as parameterized in study v14"
+rice,0.75,0.68,0.82,0.85,"CLASP Table 21, as parameterized in study v14"
+fridge,0.79,0.86,0.97,0.95,"CLASP Table 21, as parameterized in study v14"
+tv,0.95,0.95,0.93,0.97,"CLASP Table 21, as parameterized in study v14"
+fan,0.75,0.75,0.7,0.55,modelling assumption

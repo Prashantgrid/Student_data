@@ -1,0 +1,40 @@
+{
+  "site": "Jakarta reference location; not a verified location of every monitored home",
+  "latitude": -6.2,
+  "longitude": 106.8,
+  "year": 2025,
+  "hours": 8760,
+  "performance_ratio": 0.8,
+  "array_plane": "Horizontal irradiance reference; no roof-area limit",
+  "annual_kwh_per_kwp": 1313.3966,
+  "weeks": [
+    {
+      "quarter": 1,
+      "start": "2025-01-06 00:00:00+07:00",
+      "weight": 12.857142857142858,
+      "irradiance_energy_correction": 0.9598166055244998,
+      "selection_score": 0.011833924805312264
+    },
+    {
+      "quarter": 2,
+      "start": "2025-04-14 00:00:00+07:00",
+      "weight": 13.0,
+      "irradiance_energy_correction": 1.0205850862834889,
+      "selection_score": 0.021632650667220147
+    },
+    {
+      "quarter": 3,
+      "start": "2025-07-14 00:00:00+07:00",
+      "weight": 13.142857142857142,
+      "irradiance_energy_correction": 1.0214325063850176,
+      "selection_score": 0.005453695510803983
+    },
+    {
+      "quarter": 4,
+      "start": "2025-12-01 00:00:00+07:00",
+      "weight": 13.142857142857142,
+      "irradiance_energy_correction": 1.039217478451108,
+      "selection_score": 0.021261018714750425
+    }
+  ]
+}

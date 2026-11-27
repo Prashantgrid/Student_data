@@ -1,0 +1,9 @@
+household_id,class_va,raw_rows,load_candidate_intervals,candidate_start_local,candidate_end_local,complete_observed_days,mean_complete_day_kwh,observed_candidate_peak_kw,complete_days_with_optional_short_gap_fill,additional_days_from_short_gap_fill,filled_bins_in_optional_complete_days,pv_negative_bins,pv_above_listed_capacity_bins,negative_candidate_load_bins,measurement_status,primary_complete_observed_days
+H01,7700,10223,1940,2026-10-27 19:15:00+07:00,2026-11-21 14:30:00+07:00,0,,6.4008,2,2,17,0,0,0,export_identifies_household_total,0
+H02,41500,6436,0,,,0,,,0,0,0,874,0,0,not_identifiable,0
+H04,16500,7668,7668,2026-01-01 00:30:00+07:00,2026-11-02 15:30:00+07:00,13,77.37105385,7.5079,13,0,0,2,0,0,whole_house_boundary_unconfirmed,0
+H05,16500,9658,2722,2026-10-18 10:00:00+07:00,2026-11-20 13:15:00+07:00,26,122.1854327,15.2906,26,0,0,1795,443,0,pv_channel_metadata_inconsistent,0
+H06,5500,7240,0,,,0,,,0,0,0,0,0,0,not_identifiable,0
+H07,33000,7411,3214,2026-09-12 00:30:00+07:00,2026-11-21 14:30:00+07:00,21,123.5487048,9.3811,23,2,2,0,0,0,export_identifies_household_total,21
+H03,10500,10897,0,,,0,,,0,0,0,0,0,0,not_identifiable,0
+H08,7700,7527,4223,2026-07-17 00:30:00+07:00,2026-11-21 14:30:00+07:00,32,82.6150375,6.9074,33,1,1,0,0,0,whole_house_boundary_unconfirmed,0

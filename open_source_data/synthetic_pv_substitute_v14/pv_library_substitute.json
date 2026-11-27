@@ -1,0 +1,7 @@
+{
+ "days": 46,
+ "mean_kwh_per_kwp_day": 3.760067616161117,
+ "sd": 0.3501143821944406,
+ "peak_kw_per_kwp": 0.691327465797823,
+ "note": "synthetic substitute; the paper uses the partner library"
+}

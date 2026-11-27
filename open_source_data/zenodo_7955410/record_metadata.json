@@ -1,0 +1,233 @@
+{
+  "created": "2023-05-22T01:59:37.099302+00:00",
+  "modified": "2023-05-22T02:27:00.569433+00:00",
+  "id": 7955410,
+  "conceptrecid": "7955409",
+  "doi": "10.5281/zenodo.7955410",
+  "conceptdoi": "10.5281/zenodo.7955409",
+  "doi_url": "https://doi.org/10.5281/zenodo.7955410",
+  "metadata": {
+    "title": "Time Series Measurement Data of Residentials | Jabodetabek Regions Indonesia \u2013 220|230 Volt (1300|2200|3300|4400|5500) VA",
+    "doi": "10.5281/zenodo.7955410",
+    "publication_date": "2022-04-21",
+    "description": "<p>Time Series Measurement Data of Residentials | Jabodetabek Regions Indonesia &ndash; Voltage rating from 220|230|400 Volt within Power Contract/Limiter of (1300|2200|3300|4400|5500) VA.<br>\nThe data was collected with Standardized EDMI Read Head Optical Read Head for Data Communication (FLAG IEC-62056-21) within 5, 10, and 15 minutes. The data were then levelized into 1 minute for computation needs through the interpolation method.</p>\n\n<p>The data consist&nbsp;of Apparent Power (S, kVA) and Time (in minutes) within one-phase measurement, representing the behavioral patterns and social practices around load consumption in the rural, semi-urban, and urban areas of Jabodetabek.</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Abdul Wachid Syamroni",
+        "affiliation": "Indonesia National Research and Innovation Agency (BRIN)",
+        "orcid": "0000-0001-6047-0336"
+      },
+      {
+        "name": "Abduh Aziz Basharah",
+        "affiliation": "Indonesia National Research and Innovation Agency (BRIN)"
+      }
+    ],
+    "keywords": [
+      "Time Series Measurement data of Residentials in Jabodetabek Region of Indonesia",
+      "Residential Load Consumption in Indonesia",
+      "Jabodetabek Region Indonesia",
+      "Rural, Semi-urban, Urban Areas Load Consumption in Indonesia's Region"
+    ],
+    "version": "1",
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "communities": [
+      {
+        "id": "inpes_research_group"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "7955409"
+          }
+        }
+      ]
+    },
+    "notes": "The activity was carried out as part of the research engineer in the Agency for the Assessment &amp; Application Technology/Badan Pengkajian dan Penerapan Teknologi (BPPT)"
+  },
+  "title": "Time Series Measurement Data of Residentials | Jabodetabek Regions Indonesia \u2013 220|230 Volt (1300|2200|3300|4400|5500) VA",
+  "links": {
+    "self": "https://zenodo.org/api/records/7955410",
+    "self_html": "https://zenodo.org/records/7955410",
+    "preview_html": "https://zenodo.org/records/7955410?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.7955410",
+    "self_doi": "https://doi.org/10.5281/zenodo.7955410",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7955410",
+    "reserve_doi": "https://zenodo.org/api/records/7955410/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/7955409",
+    "parent_html": "https://zenodo.org/records/7955409",
+    "parent_doi": "https://doi.org/10.5281/zenodo.7955409",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7955409",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:7955410/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:7955410/sequence/default",
+    "files": "https://zenodo.org/api/records/7955410/files",
+    "media_files": "https://zenodo.org/api/records/7955410/media-files",
+    "latest": "https://zenodo.org/api/records/7955410/versions/latest",
+    "latest_html": "https://zenodo.org/records/7955410/latest",
+    "versions": "https://zenodo.org/api/records/7955410/versions",
+    "draft": "https://zenodo.org/api/records/7955410/draft",
+    "access_links": "https://zenodo.org/api/records/7955410/access/links",
+    "access_grants": "https://zenodo.org/api/records/7955410/access/grants",
+    "access_users": "https://zenodo.org/api/records/7955410/access/users",
+    "access_request": "https://zenodo.org/api/records/7955410/access/request",
+    "access": "https://zenodo.org/api/records/7955410/access",
+    "communities": "https://zenodo.org/api/records/7955410/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/7955410/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/7955410/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/7955410/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/7955410/quota-increase",
+    "requests": "https://zenodo.org/api/records/7955410/requests"
+  },
+  "updated": "2023-05-22T02:27:00.569433+00:00",
+  "recid": "7955410",
+  "revision": 2,
+  "files": [
+    {
+      "id": "2ee96bc4-ddfb-4ae8-b6c7-11204333713f",
+      "key": "Type11_Residential_1 Minutes Span_kVA.iso",
+      "size": 356352,
+      "checksum": "md5:33876a22df8f44d686635f2716e73843",
+      "links": {
+        "self": "https://zenodo.org/api/records/7955410/files/Type11_Residential_1%20Minutes%20Span_kVA.iso/content"
+      }
+    },
+    {
+      "id": "8ef23390-3520-4ca0-9906-9c0c2dcd5904",
+      "key": "Type1_Residential_1 Minutes Span_kVA.iso",
+      "size": 360448,
+      "checksum": "md5:bbe7bb545a05d927500889a18058697b",
+      "links": {
+        "self": "https://zenodo.org/api/records/7955410/files/Type1_Residential_1%20Minutes%20Span_kVA.iso/content"
+      }
+    },
+    {
+      "id": "3d330785-4166-476d-b543-05a4c72d2dc5",
+      "key": "Type10_Residential_1 Minutes Span_kVA.iso",
+      "size": 358400,
+      "checksum": "md5:55623d6bbb3f1782701cc6de98075573",
+      "links": {
+        "self": "https://zenodo.org/api/records/7955410/files/Type10_Residential_1%20Minutes%20Span_kVA.iso/content"
+      }
+    },
+    {
+      "id": "0732800c-f453-4208-b2e2-fe8544b77035",
+      "key": "Tipe5_Residential_1 Minutes Span_kVA.iso",
+      "size": 378880,
+      "checksum": "md5:55082597e6338afe304fa864e3de1cb4",
+      "links": {
+        "self": "https://zenodo.org/api/records/7955410/files/Tipe5_Residential_1%20Minutes%20Span_kVA.iso/content"
+      }
+    },
+    {
+      "id": "0f489cb3-13c6-473d-9581-7ff8f5e58e98",
+      "key": "Type12_Residential_1 Minutes Span_kVA.iso",
+      "size": 364544,
+      "checksum": "md5:196e862bb86250b74e4b0a8eae87e512",
+      "links": {
+        "self": "https://zenodo.org/api/records/7955410/files/Type12_Residential_1%20Minutes%20Span_kVA.iso/content"
+      }
+    },
+    {
+      "id": "befda8a7-18d8-4e66-80d9-5bebbdb6e0d0",
+      "key": "Type6_Residential_1 Minutes Span_kVA.iso",
+      "size": 370688,
+      "checksum": "md5:1e7ccf385a7a6c5556e0b90df263805a",
+      "links": {
+        "self": "https://zenodo.org/api/records/7955410/files/Type6_Residential_1%20Minutes%20Span_kVA.iso/content"
+      }
+    },
+    {
+      "id": "418d25d7-7d76-4260-b078-179519d24a81",
+      "key": "Type7_Residential_1 Minutes Span_kVA.iso",
+      "size": 364544,
+      "checksum": "md5:3eab87bf3be3dc0d47c5a6239c3105ff",
+      "links": {
+        "self": "https://zenodo.org/api/records/7955410/files/Type7_Residential_1%20Minutes%20Span_kVA.iso/content"
+      }
+    },
+    {
+      "id": "18ded161-25ee-41d6-a099-ae230e6e2367",
+      "key": "Type2_Residential_1 Minutes Span_kVA.iso",
+      "size": 362496,
+      "checksum": "md5:e0437eea2fd6f243caea0bea14bd735f",
+      "links": {
+        "self": "https://zenodo.org/api/records/7955410/files/Type2_Residential_1%20Minutes%20Span_kVA.iso/content"
+      }
+    },
+    {
+      "id": "2bcfefe4-033a-45cb-a5c1-cecbd713ad03",
+      "key": "MEASUREMENT DATA_LOW VOLTAG_Home1_4400 VA_5 Minute Span_Thirteen Days.xlsx",
+      "size": 778417,
+      "checksum": "md5:e3e1c4510a9a621df222630fde143c59",
+      "links": {
+        "self": "https://zenodo.org/api/records/7955410/files/MEASUREMENT%20DATA_LOW%20VOLTAG_Home1_4400%20VA_5%20Minute%20Span_Thirteen%20Days.xlsx/content"
+      }
+    },
+    {
+      "id": "2e822ab5-e84e-4208-9e11-2ac9e2c7ae61",
+      "key": "Tipe4_Residential_1 Minutes Span_kVA.iso",
+      "size": 270336,
+      "checksum": "md5:b0918875eb715f693796d1f1fab82de9",
+      "links": {
+        "self": "https://zenodo.org/api/records/7955410/files/Tipe4_Residential_1%20Minutes%20Span_kVA.iso/content"
+      }
+    },
+    {
+      "id": "f568aacb-33ab-4388-bf52-feb566be559b",
+      "key": "Type8_Residential_1 Minutes Span_kVA.iso",
+      "size": 342016,
+      "checksum": "md5:04b45f92b717f1e4b43b066b6896d470",
+      "links": {
+        "self": "https://zenodo.org/api/records/7955410/files/Type8_Residential_1%20Minutes%20Span_kVA.iso/content"
+      }
+    },
+    {
+      "id": "760cf8ed-181a-4f22-ae33-47d0d219b093",
+      "key": "Type9_Residential_1 Minutes Span_kVA.iso",
+      "size": 348160,
+      "checksum": "md5:1a2d0c77bade1d5b34c8891864183b8e",
+      "links": {
+        "self": "https://zenodo.org/api/records/7955410/files/Type9_Residential_1%20Minutes%20Span_kVA.iso/content"
+      }
+    },
+    {
+      "id": "6c6e2295-c4fe-4e2a-9024-042474a64c49",
+      "key": "Tipe3_Residential_1 Minutes Span_kVA.iso",
+      "size": 280576,
+      "checksum": "md5:ab19a0d4c2780a8c63aa7655291bfe2f",
+      "links": {
+        "self": "https://zenodo.org/api/records/7955410/files/Tipe3_Residential_1%20Minutes%20Span_kVA.iso/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "551108"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 435,
+    "unique_downloads": 398,
+    "views": 229,
+    "unique_views": 208,
+    "version_downloads": 435,
+    "version_unique_downloads": 398,
+    "version_unique_views": 206,
+    "version_views": 227
+  },
+  "state": "done",
+  "submitted": true
+}
